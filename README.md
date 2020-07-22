@@ -1,2 +1,2 @@
 # R
-Análise de Portfólio com ativos do Ibovespa
+Portfolio Analysis of Ibovespa's tickers.
